@@ -49,7 +49,7 @@ Keep the `_internal` folder beside the setup executable. The installer creates a
 | Toggle help HUD | F8 |
 | Toggle grind guide | F10 |
 
-Equip weapons through the Phone-G Guns menu or weapon spawners.
+Weapons activate through the Phone-G Guns menu.
 
 ## Known Issues
 
